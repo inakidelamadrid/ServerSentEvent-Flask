@@ -3,3 +3,5 @@
 **/*.swn
 ropeproject/
 **/*.pyc
+.ropeproject/
+localenv/
